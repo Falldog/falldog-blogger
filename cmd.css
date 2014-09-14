@@ -1,0 +1,13 @@
+/* Command Line */
+pre.cmd {
+  font-size: 11pt;
+  color: #dd0;
+  padding: 10px 10px 10px 21px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+  font-family: Monaco, MonacoRegular, 'Courier New', monospace;
+  
+  background: #000 url(https://raw.githubusercontent.com/Falldog/falldog-blogger/master/BG_CMD.gif) left top repeat-y;
+}
