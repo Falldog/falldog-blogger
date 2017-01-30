@@ -29,6 +29,7 @@ pre.prettyprint {
   padding: 3px;
   white-space: pre;
   overflow: auto;
+  font-family: Menlo, Monaco, "Courier New", Courier, monospace;
 }
 
 
